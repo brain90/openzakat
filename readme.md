@@ -1,6 +1,6 @@
 # target utama 
-* monitoring mustahiq dan muzakki
-* konversi dari mustahiq ke muzakki 
+* monitoring mustahiq dan muzakki per masjid
+* konversi dari mustahiq ke muzakki per masjid
 
 # fitur admin
 * Data muzakki (kontak, besar zakat)
